@@ -7,7 +7,7 @@ This project presents an interactive Power BI dashboard designed to analyze Amaz
 🛠️ Tools
 Excel,
 Power Query,
-Power BI.
+Power BI,
 DAX
 
 📁 Files
