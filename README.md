@@ -6,14 +6,14 @@ This project presents an interactive Power BI dashboard designed to analyze Amaz
 
 🛠️ Tools
 Excel|
-Power Query|
-Power BI|
+Power Query |
+Power BI |
 DAX
 
 📁 Files
-Dashboard.pbix
-Dataset.xlsx
-Dashboard.pdf
+Dashboard.pbix|
+Dataset.xlsx |
+Dashboard.pdf|
 
 🔗 Dataset Source
 https://www.kaggle.com/datasets/nalisha/amazon-sales-and-trading-insights-dataset-2024
